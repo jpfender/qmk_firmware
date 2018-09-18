@@ -16,6 +16,7 @@
 
 #include "preonic.h"
 #include "action_layer.h"
+#include "keymap_german.h"
 
 enum preonic_layers {
   _QWERTY,
