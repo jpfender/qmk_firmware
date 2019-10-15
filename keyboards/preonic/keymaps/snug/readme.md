@@ -13,12 +13,6 @@ Notable differences from the default are:
         
 - Modifiers
 
-    - `Ctrl+A`
-
-        This is my tmux leader, so it makes sense to have a dedicated
-        key for it. It sits snugly in the lower left corner (former
-        RSHIFT).
-
     - `C+S (Ctrl+Shift)`
 
         Probably my most used combination (yes, even more than
@@ -37,6 +31,6 @@ Notable differences from the default are:
 |-----------+------+------+------+------+------|------+------+------+------+------+------|
 | Shift     |   Z  |   X  |   C  |   V  |   B  |   N  |   M  |   ,  |   .  |   /  |Enter |
 |-----------+------+------+------+------+------+------+------+------+------+------+------|
-| Ctrl+A    | C+S  | Alt  | GUI  |Lower |    Space    |Raise | Left | Down |  Up  |Right |
+| Ctrl      | C+S  | Alt  | GUI  |Lower |    Space    |Raise | Left | Down |  Up  |Right |
 `----------------------------------------------------------------------------------------'
 ```
